@@ -1,6 +1,6 @@
 ---
-title: Iniciacion al metodo montessori
-subtitle: y adaptacion en el hogar
+title: Iniciacion al metodo montessori y adaptacion en el hogar
+subtitle: 24/09 - 16:30
 date: 2025-09-12
 featured_image: https://raw.githubusercontent.com/DanielManjabacas/blog-montessori/main/public/uploads/logo-montessori-minds.svg
 language: es
